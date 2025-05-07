@@ -2,6 +2,7 @@
 Project Title: Diary GUI Project
 For Subject: Advance Programming
 
+
 Instructions for the code:
 * Create an application that records a diary. Use a file as a database. The following are the details:
   The application will display a Menu such as follows:
