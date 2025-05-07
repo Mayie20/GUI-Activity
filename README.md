@@ -3,6 +3,9 @@ Project Title: Diary GUI Project
 
 For Subject: Advance Programming
 
+Snapshots of the Repository:
+![image](https://github.com/user-attachments/assets/3b7c7f00-0493-4c65-b480-3351c67d6a51)
+
 
 Instructions for the code:
 * Create an application that records a diary. Use a file as a database. The following are the details:
