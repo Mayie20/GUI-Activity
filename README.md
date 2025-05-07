@@ -5,14 +5,18 @@ For Subject: Advance Programming
 Instructions for the code:
 * Create an application that records a diary. Use a file as a database. The following are the details:
   The application will display a Menu such as follows:
+  
   ![image](https://github.com/user-attachments/assets/9a3ad2f8-2630-4e57-b6e4-56b140bf6db1)
   
   
 * The following are operations per options:
   When option 1 is chosed, the system will be asked for the id, date, and diary content such as follows:
+  
   ![image](https://github.com/user-attachments/assets/0c7fdd0b-ba99-4c3c-b8ff-18df5606361f)
   
+  
   or
+  
   ![image](https://github.com/user-attachments/assets/3682a72f-dae0-48cc-b1ea-c8522bbe8a46)
   
 
